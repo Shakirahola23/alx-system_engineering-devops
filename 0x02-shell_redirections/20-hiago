@@ -1,2 +1,2 @@
 #!/bin/bash
-[D[Dtr -d "cC"
+tr -d Cc
