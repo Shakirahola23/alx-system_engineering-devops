@@ -1,0 +1,2 @@
+#!/bin/bash
+[Dgrep -i "root" /etc/passwd
